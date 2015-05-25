@@ -60,21 +60,30 @@
             this.visitorToolStripMenuItem.Name = "visitorToolStripMenuItem";
             this.visitorToolStripMenuItem.Size = new System.Drawing.Size(52, 20);
             this.visitorToolStripMenuItem.Text = "Visitor";
+<<<<<<< HEAD
             this.visitorToolStripMenuItem.Click += new System.EventHandler(this.visitorToolStripMenuItem_Click);
+=======
+>>>>>>> de4d30157f90d083f329ca715f108f8a22124eb7
             // 
             // visitorEntryToolStripMenuItem
             // 
             this.visitorEntryToolStripMenuItem.Name = "visitorEntryToolStripMenuItem";
             this.visitorEntryToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.visitorEntryToolStripMenuItem.Text = "Visitor Entry";
+<<<<<<< HEAD
             this.visitorEntryToolStripMenuItem.Click += new System.EventHandler(this.visitorEntryToolStripMenuItem_Click);
+=======
+>>>>>>> de4d30157f90d083f329ca715f108f8a22124eb7
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
             this.exitToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.exitToolStripMenuItem.Text = "Exit";
+<<<<<<< HEAD
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
+=======
+>>>>>>> de4d30157f90d083f329ca715f108f8a22124eb7
             // 
             // setupToolStripMenuItem
             // 
@@ -83,14 +92,20 @@
             this.setupToolStripMenuItem.Name = "setupToolStripMenuItem";
             this.setupToolStripMenuItem.Size = new System.Drawing.Size(49, 20);
             this.setupToolStripMenuItem.Text = "Setup";
+<<<<<<< HEAD
             this.setupToolStripMenuItem.Click += new System.EventHandler(this.setupToolStripMenuItem_Click);
+=======
+>>>>>>> de4d30157f90d083f329ca715f108f8a22124eb7
             // 
             // zoneTypeToolStripMenuItem
             // 
             this.zoneTypeToolStripMenuItem.Name = "zoneTypeToolStripMenuItem";
             this.zoneTypeToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.zoneTypeToolStripMenuItem.Text = "Zone Type";
+<<<<<<< HEAD
             this.zoneTypeToolStripMenuItem.Click += new System.EventHandler(this.zoneTypeToolStripMenuItem_Click);
+=======
+>>>>>>> de4d30157f90d083f329ca715f108f8a22124eb7
             // 
             // reportToolStripMenuItem
             // 
@@ -100,21 +115,30 @@
             this.reportToolStripMenuItem.Name = "reportToolStripMenuItem";
             this.reportToolStripMenuItem.Size = new System.Drawing.Size(54, 20);
             this.reportToolStripMenuItem.Text = "Report";
+<<<<<<< HEAD
             this.reportToolStripMenuItem.Click += new System.EventHandler(this.reportToolStripMenuItem_Click);
+=======
+>>>>>>> de4d30157f90d083f329ca715f108f8a22124eb7
             // 
             // zoneSpecificVisitorDetailsToolStripMenuItem
             // 
             this.zoneSpecificVisitorDetailsToolStripMenuItem.Name = "zoneSpecificVisitorDetailsToolStripMenuItem";
             this.zoneSpecificVisitorDetailsToolStripMenuItem.Size = new System.Drawing.Size(219, 22);
             this.zoneSpecificVisitorDetailsToolStripMenuItem.Text = "Zone Specific Visitor Details";
+<<<<<<< HEAD
             this.zoneSpecificVisitorDetailsToolStripMenuItem.Click += new System.EventHandler(this.zoneSpecificVisitorDetailsToolStripMenuItem_Click);
+=======
+>>>>>>> de4d30157f90d083f329ca715f108f8a22124eb7
             // 
             // zoneWiseVisitorDetailsToolStripMenuItem
             // 
             this.zoneWiseVisitorDetailsToolStripMenuItem.Name = "zoneWiseVisitorDetailsToolStripMenuItem";
             this.zoneWiseVisitorDetailsToolStripMenuItem.Size = new System.Drawing.Size(219, 22);
             this.zoneWiseVisitorDetailsToolStripMenuItem.Text = "Zone Wise Visitor Details";
+<<<<<<< HEAD
             this.zoneWiseVisitorDetailsToolStripMenuItem.Click += new System.EventHandler(this.zoneWiseVisitorDetailsToolStripMenuItem_Click);
+=======
+>>>>>>> de4d30157f90d083f329ca715f108f8a22124eb7
             // 
             // MainFormUI
             // 
@@ -124,7 +148,11 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "MainFormUI";
+<<<<<<< HEAD
             this.Text = "Main Form";
+=======
+            this.Text = "MainFormUI";
+>>>>>>> de4d30157f90d083f329ca715f108f8a22124eb7
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);

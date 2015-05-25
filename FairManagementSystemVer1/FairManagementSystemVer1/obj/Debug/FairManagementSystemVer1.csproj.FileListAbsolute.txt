@@ -11,6 +11,7 @@ E:\Farida.Asp.net\24-05-2015\FairManagementSystemVer1\FairManagementSystemVer1\o
 E:\Farida.Asp.net\24-05-2015\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.UI.ZoneSpecificVisitorUI.resources
 E:\Farida.Asp.net\24-05-2015\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.UI.ZoneTypeUI.resources
 E:\Farida.Asp.net\24-05-2015\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.UI.ZoneWiseVisitorUI.resources
+<<<<<<< HEAD
 C:\Users\Mahmud\Desktop\FairManagement\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\bin\Debug\FairManagementSystemVer1.exe.config
 C:\Users\Mahmud\Desktop\FairManagement\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.exe
 C:\Users\Mahmud\Desktop\FairManagement\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.pdb
@@ -24,3 +25,5 @@ C:\Users\Mahmud\Desktop\FairManagement\FairManagementVer1.1-master\FairManagemen
 C:\Users\Mahmud\Desktop\FairManagement\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.UI.ZoneTypeUI.resources
 C:\Users\Mahmud\Desktop\FairManagement\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.UI.ZoneWiseVisitorUI.resources
 C:\Users\Mahmud\Desktop\FairManagement\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.csproj.GenerateResource.Cache
+=======
+>>>>>>> de4d30157f90d083f329ca715f108f8a22124eb7

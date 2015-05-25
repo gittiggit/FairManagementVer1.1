@@ -7,9 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+<<<<<<< HEAD
 using FairManagementSystemVer1;
 using FairManagementSystemVer1.UI;
 
+=======
+>>>>>>> de4d30157f90d083f329ca715f108f8a22124eb7
 
 namespace FairManagementSystemVer1
 {
@@ -19,6 +22,7 @@ namespace FairManagementSystemVer1
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 
         private void visitorToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -66,5 +70,7 @@ namespace FairManagementSystemVer1
         }
 
 
+=======
+>>>>>>> de4d30157f90d083f329ca715f108f8a22124eb7
     }
 }
